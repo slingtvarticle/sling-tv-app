@@ -6,7 +6,7 @@ How Do I Use the Sling TV App on Any Device?
    :caption: Contents:
 Learn how to download, use, and get the most out of the Sling TV app on your favorite devices with this easy, human-friendly guide.
  
-.. image:: https://sling-tv-packages.readthedocs.io/en/latest/_images/help.jpg
+.. image:: help.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
