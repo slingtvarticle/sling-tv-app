@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://slingcustomer.support/support.html">
+
 How Do I Use the Sling TV App on Any Device?
 ============================================
  
